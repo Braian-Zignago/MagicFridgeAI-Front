@@ -3,7 +3,7 @@
 Este projeto é um simples simples protótipo de um Gerador de receitas, servindo como interface da minha [API](https://github.com/Braian-Zignago/MagicFridgeAI). A aplicação foi desenvolvida usando **React, Typescript e React Query**.
 
 <h1 align="center">
-    <img src="./public/Generador-Receitas.jpeg" width="300"/>
+    <img src="./public/Generador-Receitas.jpeg"/>
 </h1>
 
 ## 💻 Requisitos
