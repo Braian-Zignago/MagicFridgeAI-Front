@@ -14,8 +14,14 @@ Este projeto é um simples simples protótipo de um Gerador de receitas, servind
   ![Axios](https://img.shields.io/badge/axios-6D5AE7?style=for-the-badge&logo=axios&logoColor=white)
   ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
+
 ---
+
+## 🫂 Integração com Backend
+
+Para realizar a integração com o Backend, você pode clonar o projeto e rodar localmente.
+
+👉 [Link do repositório](https://github.com/Braian-Zignago/MagicFridgeAI)
 
 
 ## 💻 Requisitos
@@ -53,8 +59,3 @@ npm run build
 ```
 Isso irá gerar uma versão otimizada da aplicação na pasta `dist`.
 
-## 🫂 Integração com Backend
-
-Para realizar a integração com o Backend, você pode clonar o projeto e rodar localmente.
-
-👉 [Link do repositório](https://github.com/Braian-Zignago/MagicFridgeAI)
