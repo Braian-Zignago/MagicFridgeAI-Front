@@ -7,12 +7,14 @@ Este projeto é um simples simples protótipo de um Gerador de receitas, servind
 </h1>
 
 ---
-## Tecnologias Utilizadas
-	![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## Tecnologias Utilizada
+	
+  ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Axios](https://img.shields.io/badge/axios-6D5AE7?style=for-the-badge&logo=axios&logoColor=white)
   ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
 ---
 
 
